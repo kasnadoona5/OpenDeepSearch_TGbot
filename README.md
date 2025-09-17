@@ -41,6 +41,6 @@ To use this n8n workflow as a frontend for your own service:
 ## Tech Stack
 
 -   **Automation Frontend:** [n8n.io](https://n8n.io/)
--   **Backend Service:** Custom API (The logic for this is not included in this repository)
+-   **Backend Service:** Custom API (The logic for this is not included in this repository please check this: https://github.com/kasnadoona5/opnsrchsentient)
 -   **External Services:** Serper, OpenRouter (managed via the backend)
 -   **Database:** Google Sheets
